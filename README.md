@@ -12,4 +12,4 @@
 - Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. EMNLP2021. [link](https://aclanthology.org/2021.emnlp-main.57/)
 
 # Other
-- Classifying Divergences in Cross-lingual AMR Pairs. EMNLP2021. [link](Classifying Divergences in Cross-lingual AMR Pairs). spanish-english-AMR-pair
+- Classifying Divergences in Cross-lingual AMR Pairs. EMNLP2021. [[link]](https://aclanthology.org/2021.law-1.6/). spanish-english-AMR-pair
