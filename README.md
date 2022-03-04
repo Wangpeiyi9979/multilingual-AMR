@@ -13,3 +13,6 @@
 
 # Other
 - Classifying Divergences in Cross-lingual AMR Pairs. EMNLP2021. [*[link]*](https://aclanthology.org/2021.law-1.6/). spanish-english-AMR-pair
+
+# AMR of different languages
+- Chinese: CAMR2.0
