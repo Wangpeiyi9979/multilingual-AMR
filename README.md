@@ -16,3 +16,4 @@
 
 # AMR of different languages
 - Chinese: CAMR2.0
+- Korean: (KAMR)[https://github.com/choe-hyonsu-gabrielle/korean-amr-corpus]
