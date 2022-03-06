@@ -17,3 +17,5 @@
 # AMR of different languages
 - Chinese(20k): CAMR2.0
 - Korean(1k): [KAMR](https://github.com/choe-hyonsu-gabrielle/korean-amr-corpus)
+- Czech: [Paper](https://www.researchgate.net/publication/301404696_Comparing_Czech_and_English_AMRs)
+- AMR 2.0 4-languages (Italian, Spanish, German, Mandarin Chinese) test set(1371x4 sentences, 1371 English AMR): [LDC](https://catalog.ldc.upenn.edu/LDC2020T07)
